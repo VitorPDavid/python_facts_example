@@ -1,0 +1,5 @@
+attribute_0---cardinality---many
+attribute_1---cardinality---one
+attribute_2---cardinality---one
+attribute_3---cardinality---many
+attribute_4---cardinality---many
